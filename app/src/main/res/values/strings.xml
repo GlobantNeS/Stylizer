@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stylizer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Stylizer</string>
+    <string name="textBold">Bold</string>
+    <string name="textNormal">Normal</string>
+    <string name="textItalic">Italic</string>
+    <string name="textHint">Enter a color</string>
+    <string name="textNormalFont">Normal Font</string>
+    <string name="textCustomFont">Custom Font</string>
+    <string name="textButtonStylize">Stylize</string>
+    <string name="errorColor">Unkown Color</string>
+    <string name="fontMono">MONOSPACE</string>
+    <string name="fontSans">SANS</string>
+    <string name="fontSansSerif">SANS SERIF</string>
+    <string name="fontSerif">SERIF</string>
+    <string-array name="listFonts">
+        <item>Monospace</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+
+</resources>
